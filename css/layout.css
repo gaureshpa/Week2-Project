@@ -1,0 +1,10 @@
+footer {
+    background: var(--primary);
+    color: var(--text);
+    padding: 1rem;
+}
+
+main {
+    margin: auto;
+    padding: 2rem;
+}
