@@ -30,7 +30,6 @@
     display: flex;
     justify-content: center;
     gap: 30px;
-    
 }
 
 .nav-links div a {
@@ -62,8 +61,10 @@
 
 .secondary-links {
     display: flex;
-    justify-content: space-between;
-    gap: 100px;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding : 0 1rem;
 }
 
 .secondary-links div a{
