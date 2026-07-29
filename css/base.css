@@ -6,9 +6,9 @@
 
 :root {
     --primary : #d2232a !important;;
-    --background: #ffffff;
-    --secondary: #000000;
-    --text: #000000;
+    --background: #fff;
+    --secondary: #000;
+    --text: #000;
     --accent: #898383;;
 }
 

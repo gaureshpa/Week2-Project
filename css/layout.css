@@ -19,14 +19,3 @@ footer {
 }
 
 
-@media (max-width:480px) {
-
-    .nav-links, .secondary-navbar {
-        display: none;
-    }
-
-    .club-section {
-        display: flex;
-        flex-direction: column;
-    }
-}
