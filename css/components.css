@@ -76,19 +76,11 @@
 
 .nav-links a:hover {
     color: #fff;
-    background: #000;
-    padding: 10px;
 }
 
 .secondary-links a:hover {
-    color: #000;
-    background: #fff;
-    padding: 10px;
-}
-
-.sidebar a:hover {
-    color: #f1f1f1;
-    background: #555;
+    color: var(--primary);
+    transition: 0.5s;
 }
 
 img {
